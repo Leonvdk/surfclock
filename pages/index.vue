@@ -23,6 +23,8 @@
 <style>
 body{
     margin: 0px;
+    max-width: 100vw;
+    overflow-x: hidden;
 }
 	.hero {
 		height: 100%;
