@@ -21,6 +21,9 @@
 </template>
 
 <style>
+body{
+    margin: 0px;
+}
 	.hero {
 		height: 100%;
 		display: flex;
