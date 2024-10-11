@@ -35,11 +35,13 @@ body{
 		font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
 			"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 		text-shadow: 2px 2px 15px rgba(0, 0, 0, 0.711);
+        text-align: center;
 	}
 
 	.hero-image {
 		height: 100vh;
 		position: absolute;
-		z-index: -2;
+		z-index: -1;
+        min-width: 100vw;
 	}
 </style>
